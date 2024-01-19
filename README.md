@@ -1,6 +1,6 @@
 # Olá, eu sou Bernardo Duarte! 👋
 ## 🚀 Sobre mim
-Estudante de Sistemas de Informação.
+Estudante de Sistemas de Informação do IF Sudeste MG.
 ## 🛠 Habilidades
 JavaScript, HTML, CSS, C, C#, e TypeScript.
 ## 🔗 Conecte comigo
