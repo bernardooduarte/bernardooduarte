@@ -1,6 +1,6 @@
 # Olá, eu sou Bernardo Duarte! 👋
 ## 🚀 Sobre mim
-Estudante de Sistemas de Informação do IF Sudeste MG
+Estagiário em Software da Radix e Estudante de Sistemas de Informação do IF Sudeste MG
 ## 🛠 Habilidades
 Python, Java, JavaScript, React, Spring Boot, Node.js, TypeScript, Tailwind CSS e C#. Em breve mais linguagens!
 ## 🔗 Conecte comigo
