@@ -1,7 +1,7 @@
 # Olá, eu sou o Bernardo Duarte! 👋
 
 🎓 Estudante de **Sistemas de Informação** no IF Sudeste MG  
-💻 **Software Developer Intern @ Radix**  
+💻 **Estagiário em Software @ Radix**  
 🌐 Foco em **Desenvolvimento Full Stack**, **Qualidade de Software**, **Dados** e **IA**
 
 Atuo profissionalmente com **desenvolvimento de software** em um ambiente ágil e colaborativo, criando aplicações web, APIs REST, testes automatizados e integrações orientadas a dados. Gosto de escrever código limpo, testável e alinhado às boas práticas de engenharia de software.
