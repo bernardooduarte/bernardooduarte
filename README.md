@@ -1,10 +1,10 @@
 # Olá, eu sou o Bernardo Duarte! 👋
 
 🎓 Estudante de **Sistemas de Informação** no IF Sudeste MG  
-💻 **Estagiário em Software @ Radix**  
+💻 **Assistente Técnico @ Radix**  
 🌐 Foco em **Desenvolvimento Full Stack**, **Qualidade de Software**, **Dados** e **IA**
 
-Atuo profissionalmente com **desenvolvimento de software** em um ambiente ágil e colaborativo, criando aplicações web, APIs REST, testes automatizados e integrações orientadas a dados. Gosto de escrever código limpo, testável e alinhado às boas práticas de engenharia de software.
+Atuo profissionalmente com **desenvolvimento de software** em um ambiente ágil e colaborativo, criando aplicações web, APIs REST, testes automatizados e integrações orientadas a dados. Acompanho o campo de **inteligência artificial** de forma abrangente e busco aplicá-la de forma estratégica no meu fluxo de trabalho, como um diferencial real de produtividade e qualidade técnica, não apenas como recurso pontual. Gosto de escrever código limpo, testável e alinhado às boas práticas de engenharia de software.
 
 ---
 
@@ -16,6 +16,7 @@ Na **Radix**, trabalho com:
 - Criação e manutenção de **aplicações web** e **APIs REST**  
 - Atividades de **QA**, testes automatizados e revisão de código  
 - Consumo e análise de dados industriais com **AVEVA PI System**  
+- Uso de ferramentas de mercado como **Cognite**, **SAP**, **Salesforce** e **Microsoft Power BI**  
 - Colaboração em **times ágeis** (Scrum/Kanban) com foco em entrega contínua
 
 **Stack principal no dia a dia:**
@@ -23,8 +24,9 @@ Na **Radix**, trabalho com:
 - **Backend:** Java • Spring Boot • JPA/Hibernate • REST APIs  
 - **Frontend:** React / Angular • TypeScript • JavaScript  
 - **Banco de dados:** SQL (PostgreSQL, MySQL)  
+- **Dados e IA:** Python • Inteligência Artificial aplicada de forma estratégica ao desenvolvimento (ver seção dedicada abaixo)  
 - **DevOps / Ferramentas:** Git • GitHub • GitLab • Azure DevOps • CI/CD • Docker  
-- **Dados industriais:** AVEVA PI System  
+- **Dados industriais e ferramentas corporativas:** AVEVA PI System • Cognite • SAP • Salesforce • Microsoft Power BI  
 
 Também tenho formação complementar em:
 
@@ -88,6 +90,12 @@ Além de desenvolvimento web, atuo e estudo na área de **dados** e **inteligên
 
 ---
 
+## 🤖 Inteligência Artificial
+
+Vejo IA não como um atalho, mas como parte da minha forma de trabalhar: acompanho o campo de inteligência artificial de forma ampla, fundamentos, tendências e aplicações, e busco aplicá-la de forma estratégica ao meu fluxo de desenvolvimento, com foco em produtividade e qualidade técnica.
+
+---
+
 ## 🧠 Principais skills técnicas
 
 **Linguagens & Backend**
@@ -117,7 +125,15 @@ Além de desenvolvimento web, atuo e estudo na área de **dados** e **inteligên
 - SQL (PostgreSQL, MySQL, etc.)  
 - Estatística descritiva  
 - Fundamentos de Machine Learning & IA  
-- AVEVA PI System (dados industriais)
+- AVEVA PI System (dados industriais)  
+- Aplicação estratégica de Inteligência Artificial no fluxo de desenvolvimento  
+
+**Ferramentas corporativas / Enterprise**
+
+- Cognite  
+- SAP  
+- Salesforce  
+- Microsoft Power BI  
 
 **DevOps & Ferramentas**
 
