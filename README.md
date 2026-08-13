@@ -34,9 +34,9 @@ Sou **Desenvolvedor Full Stack** e **Engenheiro de Software** em formação pelo
 
 ### 📊 Meus Status
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardooduarte&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/bernardooduarte)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bernardooduarte&theme=algolia&hide_border=true)](https://github.com/bernardooduarte)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardooduarte&layout=compact&langs_count=7&theme=algolia)](https://github.com/bernardooduarte)
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernardooduarte&theme=algolia)](https://github.com/bernardooduarte)
 
 ### 📫 Como me encontrar
 <p>
