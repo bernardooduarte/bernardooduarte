@@ -33,10 +33,10 @@ Sou **Desenvolvedor Full Stack** e **Engenheiro de Software** em formação pelo
 - 🧠 Explorando e aplicando ferramentas de **IA Generativa** no fluxo de desenvolvimento.
 
 ### 📊 Meus Status
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardooduarte&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardooduarte&layout=compact&langs_count=7&theme=algolia"/>
-</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardooduarte&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/bernardooduarte)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardooduarte&layout=compact&langs_count=7&theme=algolia)](https://github.com/bernardooduarte)
 
 ### 📫 Como me encontrar
 <p>
