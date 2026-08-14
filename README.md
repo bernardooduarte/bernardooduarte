@@ -40,7 +40,7 @@ Sou **Desenvolvedor Full Stack** e **Engenheiro de Software** em formação pelo
 
 ### 📫 Como me encontrar
 <p>
-  <a href="https://www.linkedin.com/in/bernardoduarte2/" target="_blank">
+  <a href="https://www.linkedin.com/in/bernardoduarte-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bernardoduarte.mg@gmail.com" target="_blank">
